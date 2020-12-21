@@ -1,6 +1,6 @@
-streamlit>=0.71.0
-numpy>=1.18.1
-opencv-python>=4.4.0.46
-pandas>=1.0.1
-keras>=2.4.3
-tensorflow>=2.2.0
+pandas==1.0.1
+Keras==2.4.3
+opencv_python==4.4.0.46
+streamlit==0.71.0
+numpy==1.18.1
+Pillow==8.0.1
