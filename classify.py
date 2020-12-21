@@ -1,6 +1,6 @@
 # from tensorflow.keras.preprocessing.image import img_to_array
-import listdir
-import isfile, join
+from os import listdir
+from os.path import isfile, join
 import tensorflow as tf
 import numpy as np
 import keras
