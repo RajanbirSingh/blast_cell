@@ -1,5 +1,5 @@
-import listdir
-import isfile, join
+from os import listdir
+from os.path import isfile, join
 import streamlit as st 
 from PIL import Image
 import classify
